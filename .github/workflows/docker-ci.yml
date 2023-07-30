@@ -15,7 +15,7 @@ concurrency:
 
 env:
   IMAGE_NAME: auto-gpt
-
+ 
 jobs:
   build:
     runs-on: ubuntu-latest
